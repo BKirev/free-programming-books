@@ -16,6 +16,7 @@
 * [ANSI C - Пълен справочник]
 (http://progstarter.com/attachments/article/9/ANSI%20C.%20%D0%9F%D1%8A%D0%BB%D0%B5%D0%BD%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA.pdf) - Димо Петков
 
+
 ### C Sharp
 
 * [Основи на програмирането със C#](https://csharp-book.softuni.bg) - Светлин Наков и колектив
